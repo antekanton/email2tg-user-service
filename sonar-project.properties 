@@ -1,0 +1,3 @@
+sonar.projectKey=user-service
+sonar.host.url=http://localhost:9000
+sonar.login=af562821ea05cca7f7f55c0af8515a2c2cbb83d5
